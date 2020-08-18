@@ -4,7 +4,7 @@
   "description": "Node API with Clean Architecture Pattern",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "lint-staged": {
     "*.js": [
@@ -30,6 +30,7 @@
   "homepage": "https://github.com/lbittencurt/clean-node-api#readme",
   "devDependencies": {
     "husky": "^4.2.5",
+    "jest": "^26.4.0",
     "lint-staged": "^10.2.11",
     "standard": "^14.3.4"
   }
