@@ -1,0 +1,23 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "Node API with Clean Architecture Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbittencurt/clean-node-api.git"
+  },
+  "keywords": [],
+  "author": "Lucas Filipe Bittencurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbittencurt/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/lbittencurt/clean-node-api#readme",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
